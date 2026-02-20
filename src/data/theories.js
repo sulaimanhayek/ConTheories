@@ -9,6 +9,8 @@ const theories = [
     description:
       "One of the earliest philosophical positions on consciousness. Thales proposed that all matter possesses some form of mind or soul (hylozoism). This view — that consciousness is a fundamental feature of the physical world — would echo through millennia of philosophy.",
     color: "#8B5CF6",
+    sourceUrl: "https://plato.stanford.edu/entries/panpsychism/",
+    sourceLabel: "Stanford Encyclopedia of Philosophy",
   },
   {
     id: 2,
@@ -20,6 +22,8 @@ const theories = [
     description:
       "Plato argued the soul is immortal and separable from the body, existing before birth and after death. Consciousness, for Plato, is the soul's capacity to apprehend the eternal Forms — perfect, abstract realities beyond the physical world.",
     color: "#8B5CF6",
+    sourceUrl: "https://plato.stanford.edu/entries/plato-metaphysics/",
+    sourceLabel: "Stanford Encyclopedia of Philosophy",
   },
   {
     id: 3,
@@ -31,6 +35,8 @@ const theories = [
     description:
       "Aristotle rejected Plato's separable soul, proposing instead that the soul (psyche) is the 'form' of the body. Consciousness is not a separate substance but an activity — the actualization of a living body's potential. He identified three levels: nutritive, sensitive, and rational soul.",
     color: "#8B5CF6",
+    sourceUrl: "https://plato.stanford.edu/entries/aristotle-psychology/",
+    sourceLabel: "Stanford Encyclopedia of Philosophy",
   },
   {
     id: 4,
@@ -42,6 +48,8 @@ const theories = [
     description:
       "\"Cogito, ergo sum\" — I think, therefore I am. Descartes argued that mind (res cogitans) and body (res extensa) are fundamentally different substances. Consciousness is a non-physical thinking substance, separate from the material brain. This framing defined the mind-body problem for centuries.",
     color: "#EC4899",
+    sourceUrl: "https://plato.stanford.edu/entries/descartes/",
+    sourceLabel: "Stanford Encyclopedia of Philosophy",
   },
   {
     id: 5,
@@ -53,6 +61,8 @@ const theories = [
     description:
       "Spinoza proposed that mind and body are not two substances but two attributes of one underlying substance (God/Nature). Consciousness and physical reality are parallel aspects of the same reality, neither reducible to the other.",
     color: "#EC4899",
+    sourceUrl: "https://plato.stanford.edu/entries/spinoza/",
+    sourceLabel: "Stanford Encyclopedia of Philosophy",
   },
   {
     id: 6,
@@ -64,6 +74,8 @@ const theories = [
     description:
       "\"Esse est percipi\" — to be is to be perceived. Berkeley argued that material objects exist only as perceptions in conscious minds. Reality is fundamentally mental; consciousness is not a product of matter but rather matter is a construct of consciousness.",
     color: "#EC4899",
+    sourceUrl: "https://plato.stanford.edu/entries/berkeley/",
+    sourceLabel: "Stanford Encyclopedia of Philosophy",
   },
   {
     id: 7,
@@ -75,6 +87,8 @@ const theories = [
     description:
       "Leibniz proposed that reality consists of fundamental units called 'monads' — simple, soul-like substances with perception and appetite. Each monad mirrors the universe from its own perspective. Human consciousness is a higher-order reflection within these monadic perceptions.",
     color: "#EC4899",
+    sourceUrl: "https://plato.stanford.edu/entries/leibniz/",
+    sourceLabel: "Stanford Encyclopedia of Philosophy",
   },
   {
     id: 8,
@@ -86,6 +100,8 @@ const theories = [
     description:
       "Kant argued that consciousness does not passively receive reality but actively structures it. Space, time, and causality are not features of the world-in-itself but forms imposed by the mind. The 'transcendental unity of apperception' — the 'I think' — is the condition for all experience.",
     color: "#EC4899",
+    sourceUrl: "https://plato.stanford.edu/entries/kant/",
+    sourceLabel: "Stanford Encyclopedia of Philosophy",
   },
   {
     id: 9,
@@ -97,6 +113,8 @@ const theories = [
     description:
       "Hegel described consciousness as evolving through a dialectical process — from simple sense-certainty through self-consciousness to absolute knowledge. Consciousness is not static but develops historically, achieving ever-greater self-awareness through contradiction and synthesis.",
     color: "#EC4899",
+    sourceUrl: "https://plato.stanford.edu/entries/hegel/",
+    sourceLabel: "Stanford Encyclopedia of Philosophy",
   },
   {
     id: 10,
@@ -108,6 +126,8 @@ const theories = [
     description:
       "Fechner pioneered the systematic, experimental study of the relationship between physical stimuli and conscious experience. His 'Elements of Psychophysics' established mathematical laws relating stimulus intensity to perceived sensation, making consciousness a subject of empirical science for the first time.",
     color: "#F59E0B",
+    sourceUrl: "https://plato.stanford.edu/entries/weber-fechner/",
+    sourceLabel: "Stanford Encyclopedia of Philosophy",
   },
   {
     id: 11,
@@ -119,6 +139,8 @@ const theories = [
     description:
       "Helmholtz proposed that conscious perception is the result of 'unconscious inferences' — the brain automatically and unconsciously processes raw sensory data, constructing the conscious experience we take for granted. A precursor to modern predictive processing theories.",
     color: "#F59E0B",
+    sourceUrl: "https://plato.stanford.edu/entries/perception-episprob/",
+    sourceLabel: "Stanford Encyclopedia of Philosophy",
   },
   {
     id: 12,
@@ -130,6 +152,8 @@ const theories = [
     description:
       "Huxley argued that consciousness is a byproduct of brain processes — real but causally inert, like the steam whistle on a locomotive that plays no role in making it move. Physical brain events cause conscious experiences, but those experiences have no power to influence the physical world.",
     color: "#F59E0B",
+    sourceUrl: "https://plato.stanford.edu/entries/epiphenomenalism/",
+    sourceLabel: "Stanford Encyclopedia of Philosophy",
   },
   {
     id: 13,
@@ -141,6 +165,8 @@ const theories = [
     description:
       "In 'The Principles of Psychology,' James characterized consciousness not as a collection of discrete mental states but as a continuous, ever-changing stream. He emphasized its personal, selective, and purposive nature, and defended a pragmatic, functional approach to its study.",
     color: "#F59E0B",
+    sourceUrl: "https://psychclassics.yorku.ca/James/Principles/prin9.htm",
+    sourceLabel: "The Principles of Psychology, Ch. IX",
   },
   {
     id: 14,
@@ -152,6 +178,8 @@ const theories = [
     description:
       "Husserl founded phenomenology as a rigorous study of the structures of consciousness from the first-person perspective. His key insight: consciousness is always 'intentional' — directed toward objects. Through 'phenomenological reduction,' we can examine how consciousness constitutes the world of experience.",
     color: "#10B981",
+    sourceUrl: "https://plato.stanford.edu/entries/husserl/",
+    sourceLabel: "Stanford Encyclopedia of Philosophy",
   },
   {
     id: 15,
@@ -163,6 +191,8 @@ const theories = [
     description:
       "Watson declared that consciousness is not a proper subject of scientific study. Psychology should concern itself only with observable behavior, not inner mental states. This anti-consciousness stance dominated American psychology for decades, pushing the study of subjective experience to the margins.",
     color: "#6366F1",
+    sourceUrl: "https://psychclassics.yorku.ca/Watson/views.htm",
+    sourceLabel: "Psychology as the Behaviorist Views It",
   },
   {
     id: 16,
@@ -174,6 +204,8 @@ const theories = [
     description:
       "Russell proposed that mind and matter are not fundamentally different substances. Both are constructions from a more basic, 'neutral' stuff that is neither mental nor physical in itself. Consciousness and physical objects are different arrangements of the same underlying elements.",
     color: "#6366F1",
+    sourceUrl: "https://plato.stanford.edu/entries/neutral-monism/",
+    sourceLabel: "Stanford Encyclopedia of Philosophy",
   },
   {
     id: 17,
@@ -185,6 +217,8 @@ const theories = [
     description:
       "In 'Being and Time,' Heidegger reframed consciousness not as a detached observer but as 'Dasein' — being-in-the-world. Consciousness is primordially engaged, practical, and situated. We don't first perceive objects then act; we are always already immersed in a meaningful world.",
     color: "#10B981",
+    sourceUrl: "https://plato.stanford.edu/entries/heidegger/",
+    sourceLabel: "Stanford Encyclopedia of Philosophy",
   },
   {
     id: 18,
@@ -196,6 +230,8 @@ const theories = [
     description:
       "Merleau-Ponty argued that consciousness is fundamentally embodied — rooted in the living body's sensorimotor engagement with the world. Perception is not a mental representation but a bodily activity. The 'body-subject' is the vehicle of being in the world.",
     color: "#10B981",
+    sourceUrl: "https://plato.stanford.edu/entries/merleau-ponty/",
+    sourceLabel: "Stanford Encyclopedia of Philosophy",
   },
   {
     id: 19,
@@ -207,6 +243,8 @@ const theories = [
     description:
       "In 'The Concept of Mind,' Ryle attacked Cartesian dualism as a 'category mistake' — the 'ghost in the machine.' Mental states are not private inner events but dispositions to behave in certain ways. There is no separate 'consciousness' hiding behind our actions.",
     color: "#6366F1",
+    sourceUrl: "https://plato.stanford.edu/entries/ryle/",
+    sourceLabel: "Stanford Encyclopedia of Philosophy",
   },
   {
     id: 20,
@@ -218,6 +256,8 @@ const theories = [
     description:
       "Place and Smart proposed that conscious mental states are identical to brain states — not just correlated with them, but literally the same thing. Experiencing red IS a certain pattern of neural firing. This physicalist thesis directly challenges dualism.",
     color: "#6366F1",
+    sourceUrl: "https://plato.stanford.edu/entries/mind-identity/",
+    sourceLabel: "Stanford Encyclopedia of Philosophy",
   },
   {
     id: 21,
@@ -229,6 +269,8 @@ const theories = [
     description:
       "Putnam proposed that mental states are defined not by their physical composition but by their functional role — their causal relations to inputs, outputs, and other mental states. Consciousness could, in principle, be realized in different physical substrates (silicon, etc.), not just biological brains.",
     color: "#0EA5E9",
+    sourceUrl: "https://plato.stanford.edu/entries/functionalism/",
+    sourceLabel: "Stanford Encyclopedia of Philosophy",
   },
   {
     id: 22,
@@ -240,6 +282,8 @@ const theories = [
     description:
       "Nagel's landmark paper argued that consciousness has an irreducibly subjective character — there is 'something it is like' to be a conscious organism. No amount of objective, third-person scientific knowledge can capture what it's like to experience echolocation as a bat. A foundational text for the 'hard problem.'",
     color: "#0EA5E9",
+    sourceUrl: "https://www.jstor.org/stable/2183914",
+    sourceLabel: "The Philosophical Review, Vol. 83, No. 4",
   },
   {
     id: 23,
@@ -251,6 +295,8 @@ const theories = [
     description:
       "Dennett argued there is no single 'Cartesian theater' where consciousness happens. Instead, the brain runs multiple parallel processes ('drafts') of narrative, and there is no single, definitive 'stream of consciousness.' What we call conscious experience is a retrospective construction, not a real-time show.",
     color: "#F43F5E",
+    sourceUrl: "https://plato.stanford.edu/entries/consciousness/#MulDraMod",
+    sourceLabel: "Stanford Encyclopedia of Philosophy",
   },
   {
     id: 24,
@@ -262,6 +308,8 @@ const theories = [
     description:
       "Rosenthal proposed that a mental state becomes conscious when it is the object of a higher-order thought — a thought about that thought. You see red (first-order), but it only becomes a conscious experience when you have a meta-representation: 'I am seeing red.' No higher-order thought, no consciousness.",
     color: "#F43F5E",
+    sourceUrl: "https://plato.stanford.edu/entries/consciousness-higher/",
+    sourceLabel: "Stanford Encyclopedia of Philosophy",
   },
   {
     id: 25,
@@ -273,6 +321,8 @@ const theories = [
     description:
       "Baars proposed that consciousness arises when information is broadcast to a 'global workspace' — a shared cognitive resource accessible to multiple brain systems (memory, attention, language, action). Unconscious processes compete for access; the 'winner' becomes conscious experience, available to the whole brain.",
     color: "#F43F5E",
+    sourceUrl: "https://en.wikipedia.org/wiki/Global_workspace_theory",
+    sourceLabel: "Wikipedia — Global Workspace Theory",
   },
   {
     id: 26,
@@ -284,6 +334,8 @@ const theories = [
     description:
       "In 'The Embodied Mind,' the authors proposed that consciousness is not a representation of a pre-given world but is 'enacted' — brought forth through the organism's sensorimotor coupling with its environment. Mind is not in the head; it is an activity of the whole embodied, embedded organism.",
     color: "#14B8A6",
+    sourceUrl: "https://mitpress.mit.edu/9780262720212/the-embodied-mind/",
+    sourceLabel: "MIT Press — The Embodied Mind",
   },
   {
     id: 27,
@@ -295,6 +347,8 @@ const theories = [
     description:
       "Searle argued that consciousness is a real, irreducible biological phenomenon — caused by lower-level neuronal processes but not reducible to them, just as liquidity is caused by but not reducible to molecular behavior. He rejected both dualism and reductive materialism.",
     color: "#0EA5E9",
+    sourceUrl: "https://plato.stanford.edu/entries/searle/",
+    sourceLabel: "Stanford Encyclopedia of Philosophy",
   },
   {
     id: 28,
@@ -306,6 +360,8 @@ const theories = [
     description:
       "Chalmers drew a sharp distinction between the 'easy problems' (explaining cognitive functions like memory, attention, behavior) and the 'hard problem': why and how do physical processes give rise to subjective experience? Why is there 'something it is like' to see red? This framing galvanized the modern field.",
     color: "#0EA5E9",
+    sourceUrl: "https://consc.net/papers/facing.html",
+    sourceLabel: "Facing Up to the Problem of Consciousness",
   },
   {
     id: 29,
@@ -317,6 +373,8 @@ const theories = [
     description:
       "Penrose and Hameroff proposed that consciousness arises from quantum computations in microtubules within neurons. Quantum coherence in these structures undergoes 'objective reduction' — a self-collapse of the quantum wave function — producing moments of conscious experience. Highly controversial but influential.",
     color: "#A855F7",
+    sourceUrl: "https://en.wikipedia.org/wiki/Orchestrated_objective_reduction",
+    sourceLabel: "Wikipedia — Orchestrated Objective Reduction",
   },
   {
     id: 30,
@@ -328,6 +386,8 @@ const theories = [
     description:
       "Lamme proposed that consciousness arises specifically from recurrent (feedback) processing in the brain — when neural signals loop back from higher to lower brain areas. Feedforward processing alone produces unconscious processing; it is the recurrent loops that generate conscious experience.",
     color: "#EF4444",
+    sourceUrl: "https://pubmed.ncbi.nlm.nih.gov/10880750/",
+    sourceLabel: "PubMed — Neural mechanisms of visual awareness",
   },
   {
     id: 31,
@@ -339,6 +399,8 @@ const theories = [
     description:
       "Tononi proposed that consciousness is identical to integrated information, measured as Phi (\u03A6). A system is conscious to the degree that it integrates information as a unified whole beyond its parts. IIT makes consciousness a fundamental property measurable in any system — brains, computers, even thermostats.",
     color: "#EF4444",
+    sourceUrl: "https://pubmed.ncbi.nlm.nih.gov/15538604/",
+    sourceLabel: "BMC Neuroscience — An information integration theory",
   },
   {
     id: 32,
@@ -350,6 +412,8 @@ const theories = [
     description:
       "In 'Realistic Monism: Why Physicalism Entails Panpsychism,' Strawson argued that if we take physicalism seriously, and consciousness is real, then experiential properties must be fundamental features of physical reality. This sparked a major revival of panpsychism in mainstream analytic philosophy.",
     color: "#0EA5E9",
+    sourceUrl: "https://philpapers.org/rec/STRRMW",
+    sourceLabel: "PhilPapers — Realistic Monism",
   },
   {
     id: 33,
@@ -361,6 +425,8 @@ const theories = [
     description:
       "Friston proposed that all living systems minimize 'free energy' — the difference between their internal model's predictions and actual sensory input. Consciousness may emerge from this process of active inference, where the brain constantly generates and updates predictions about the world.",
     color: "#EF4444",
+    sourceUrl: "https://www.nature.com/articles/nrn2787",
+    sourceLabel: "Nature Reviews Neuroscience — The free-energy principle",
   },
   {
     id: 34,
@@ -372,6 +438,8 @@ const theories = [
     description:
       "Graziano proposed that the brain constructs a simplified internal model — an 'attention schema' — to monitor and control its own attention processes. Subjective awareness is this schema: a simplified, sometimes inaccurate model of what attention is and how it works, similar to how the body schema models the body.",
     color: "#F43F5E",
+    sourceUrl: "https://grazianolab.princeton.edu/publications/attention-schema-theory-mechanistic-account-subjective-awareness",
+    sourceLabel: "Graziano Lab — Attention Schema Theory",
   },
   {
     id: 35,
@@ -383,6 +451,8 @@ const theories = [
     description:
       "Building on Baars' Global Workspace Theory, Dehaene and Changeux identified specific neural mechanisms: consciousness occurs when information is broadcast via long-range prefrontal-parietal networks, creating a 'neuronal global workspace.' They proposed an 'ignition' threshold that separates conscious from unconscious processing.",
     color: "#EF4444",
+    sourceUrl: "https://pmc.ncbi.nlm.nih.gov/articles/PMC8770991/",
+    sourceLabel: "PMC — Conscious Processing and the Global Neuronal Workspace",
   },
   {
     id: 36,
@@ -394,6 +464,8 @@ const theories = [
     description:
       "Frankish argued that phenomenal consciousness — the 'what it's like' quality of experience — is an illusion. We don't actually have qualia; instead, we have 'quasi-phenomenal' states that our introspective systems misrepresent as having rich qualitative properties. The hard problem dissolves because there are no hard-problem-generating properties.",
     color: "#0EA5E9",
+    sourceUrl: "https://philpapers.org/rec/FRAI-5",
+    sourceLabel: "PhilPapers — Illusionism as a Theory of Consciousness",
   },
   {
     id: 37,
@@ -405,6 +477,8 @@ const theories = [
     description:
       "Emerging theories proposing that consciousness arises from the integration of information within the dendritic trees of individual neurons, not just from neural networks. Dendrites perform complex, nonlinear computations that may be the fundamental substrate of conscious experience.",
     color: "#EF4444",
+    sourceUrl: "https://pubmed.ncbi.nlm.nih.gov/31896716/",
+    sourceLabel: "PubMed — Dendritic action potentials and computation",
   },
   {
     id: 38,
@@ -416,6 +490,8 @@ const theories = [
     description:
       "A landmark study designed as an adversarial collaboration between proponents of Global Neuronal Workspace Theory and Integrated Information Theory. Both camps pre-registered predictions; the results challenged key predictions of both theories, pushing the field toward more rigorous empirical testing of consciousness theories.",
     color: "#EF4444",
+    sourceUrl: "https://www.nature.com/articles/s41586-025-08888-1",
+    sourceLabel: "Nature — Adversarial testing of GNW and IIT",
   },
 ];
 

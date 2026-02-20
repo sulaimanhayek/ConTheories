@@ -389,8 +389,31 @@
 }
 
 .theory-card.expanded .card-description {
-  max-height: 300px;
+  max-height: 400px;
   opacity: 1;
+}
+
+.card-source-link {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  margin-top: 12px;
+  padding: 6px 12px;
+  font-size: 0.78rem;
+  font-weight: 500;
+  color: var(--link-color, #8b5cf6);
+  background: rgba(255, 255, 255, 0.04);
+  border: 1px solid rgba(255, 255, 255, 0.08);
+  border-radius: 6px;
+  text-decoration: none;
+  transition: all 0.2s;
+  cursor: pointer;
+}
+
+.card-source-link:hover {
+  background: rgba(255, 255, 255, 0.08);
+  border-color: var(--link-color, #8b5cf6);
+  color: #fff;
 }
 
 .card-expand-hint {
