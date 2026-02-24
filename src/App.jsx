@@ -68,9 +68,8 @@ function App() {
             Theories of <span>Consciousness</span>
           </h1>
           <p>
-            From ancient philosophy to modern neuroscience — a visual journey
-            through humanity's attempts to understand the nature of conscious
-            experience.
+            A timeline of theories of consciousness, from ancient philosophy to
+            modern neuroscience.
           </p>
           <div className="stats">
             <div className="stat">
