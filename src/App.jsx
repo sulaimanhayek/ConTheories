@@ -68,9 +68,9 @@ function App() {
             Theories of <span>Consciousness</span>
           </h1>
           <p>
-            From ancient philosophy to modern neuroscience — a visual journey
-            through humanity's attempts to understand the nature of conscious
-            experience.
+            This website is inspired by an assignment related to Neuroscience of
+            Consciousness Module of AI and Adaptive Systems course at the
+            University of Sussex.
           </p>
           <div className="stats">
             <div className="stat">
@@ -181,18 +181,7 @@ function App() {
 
       {/* Footer */}
       <footer className="footer">
-        <p>
-          Built with React + Vite
-          <br />
-          Inspired by{" "}
-          <a
-            href="https://ai-timeline.org"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            AI Timeline
-          </a>
-        </p>
+        <p>Built by a student for students.</p>
       </footer>
     </div>
   );
