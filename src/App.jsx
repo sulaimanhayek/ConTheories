@@ -72,6 +72,11 @@ function App() {
             Consciousness Module of AI and Adaptive Systems course at the
             University of Sussex.
           </p>
+          <p>
+            From ancient philosophy to modern neuroscience — a visual journey
+            through humanity's attempts to understand the nature of conscious
+            experience.
+          </p>
           <div className="stats">
             <div className="stat">
               <div className="stat-number">{theories.length}</div>
