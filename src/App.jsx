@@ -64,11 +64,6 @@ function App() {
       {/* Header */}
       <header className="header">
         <div className="header-content">
-          <p>
-            This website is inspired by an assignment related to Neuroscience of
-            Consciousness Module of AI and Adaptive Systems course at the
-            University of Sussex.
-          </p>
           <h1>
             Theories of <span>Consciousness</span>
           </h1>
@@ -187,6 +182,11 @@ function App() {
       {/* Footer */}
       <footer className="footer">
         <p>Built by a student for students.</p>
+        <p>
+          This website is inspired by an assignment related to Neuroscience of
+          Consciousness Module of AI and Adaptive Systems course at the
+          University of Sussex.
+        </p>
       </footer>
     </div>
   );
