@@ -64,14 +64,14 @@ function App() {
       {/* Header */}
       <header className="header">
         <div className="header-content">
-          <h1>
-            Theories of <span>Consciousness</span>
-          </h1>
           <p>
             This website is inspired by an assignment related to Neuroscience of
             Consciousness Module of AI and Adaptive Systems course at the
             University of Sussex.
           </p>
+          <h1>
+            Theories of <span>Consciousness</span>
+          </h1>
           <p>
             From ancient philosophy to modern neuroscience — a visual journey
             through humanity's attempts to understand the nature of conscious
