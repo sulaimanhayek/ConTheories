@@ -186,6 +186,16 @@ function App() {
           Consciousness Module of AI and Adaptive Systems course at the
           University of Sussex.
         </p>
+        <p>
+          Website layout is inspired by{" "}
+          <a
+            href="https://ai-timeline.org"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            ai-timeline.org
+          </a>
+        </p>
       </footer>
     </div>
   );
